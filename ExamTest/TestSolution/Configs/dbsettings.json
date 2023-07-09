@@ -1,0 +1,5 @@
+{
+  "DBConnection": "server=localhost;user={0};database=union_reporting;password={1}",
+  "Login": "",
+  "Password": ""
+}
